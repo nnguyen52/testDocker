@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1636215343760" clover="3.2.0">
-  <project timestamp="1636215343760" name="All files">
+<coverage generated="1639169188726" clover="3.2.0">
+  <project timestamp="1639169188726" name="All files">
     <metrics statements="45" coveredstatements="31" conditionals="12" coveredconditionals="5" methods="25" coveredmethods="18" elements="82" coveredelements="54" complexity="0" loc="45" ncloc="45" packages="1" files="1" classes="1">
-      <file name="calculator.js" path="C:\Users\karan\Downloads\Midterm-main\Midterm-main\calculator.js">
+      <file name="calculator.js" path="D:\GOW4\CPSC-2350\test_docker\Assignment4\calculator.js">
         <metrics statements="45" coveredstatements="31" conditionals="12" coveredconditionals="5" methods="25" coveredmethods="18"/>
         <line num="3" count="1" type="stmt"/>
         <line num="7" count="2" type="stmt"/>
